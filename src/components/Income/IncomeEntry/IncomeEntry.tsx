@@ -1,7 +1,7 @@
 import React, {ChangeEvent, useState} from 'react';
 import { useDispatch} from 'react-redux';
 import { v4 as uuid } from 'uuid';
-import {addIncome} from "../../store/IncomeSlice";
+import {addIncome} from "../../../store/IncomeSlice";
 import {Button, FormControl, InputAdornment, InputLabel, OutlinedInput, TextField} from "@mui/material";
 
 const IncomeEntry: React.FC = () => {

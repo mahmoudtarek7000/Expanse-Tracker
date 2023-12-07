@@ -6,7 +6,7 @@ import {ExpenseList} from "./components/Expanses/ExpansesList/expansesList";
 import SetBudgetForm from "./components/Budget/setBudget/setBudget";
 import {IncomesList} from "./components/Income/IncomesList";
 import ExpenseEntry from "./components/Expanses/ExpanseEntry/ExpanseEntry";
-import IncomeEntry from "./components/Income/IncomeEntry";
+import IncomeEntry from "./components/Income/IncomeEntry/IncomeEntry";
 
 
 
